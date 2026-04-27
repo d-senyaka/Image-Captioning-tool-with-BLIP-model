@@ -1,7 +1,7 @@
 # Image Captioning Tool with BLIP Model
 
 A simple **image captioning** app that generates natural-language captions for images using Salesforce’s **BLIP (Bootstrapping Language-Image Pretraining)** model.  
-This project is set up with a lightweight UI (Gradio) so you can upload an image and instantly get a caption.
+> This project is set up with a lightweight UI (Gradio) so you can upload an image and instantly get a caption.
 
 ---
 
